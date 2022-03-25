@@ -1,7 +1,7 @@
 .card {
   background-color: #c4c4c4;
-  height: 540px;
-  width: 300px;
+  height: 500px;
+  /* width: 300px; */
   padding: 15px;
   position: relative;
   justify-self: center;
@@ -9,8 +9,8 @@
 }
 
 .image-container {
-  width: 300px;
-  height: 320px;
+  /* width: 300px; */
+  height: 250px;
   background-color: #fff;
   clip-path: polygon(15% 0%, 100% 0, 100% 86%, 85% 100%, 0 100%, 0% 16%);
 }
