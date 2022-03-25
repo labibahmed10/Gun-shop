@@ -4,3 +4,32 @@
   gap: 15px;
   padding: 0 50px;
 }
+
+.closeicon {
+  background-color: white;
+  font-size: 1.2rem;
+  padding-bottom: 3px;
+  margin-top: 20px;
+}
+
+.cart-corner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-container {
+  overflow-y: scroll;
+  height: 400px;
+  width: 350px;
+}
+
+.cartinfo {
+  width: 350px;
+  display: flex;
+}
+
+.cartinfo img {
+  width: 60px;
+  object-fit: contain;
+  margin-right: 20px;
+}
